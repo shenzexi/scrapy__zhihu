@@ -1,0 +1,123 @@
+{
+    "question_num": 1,
+    "question_id": "12307021063",
+    "question_url": "https://www.zhihu.com/question/12307021063",
+    "question": "Windows11怎么删除不小心添加的键盘布局？",
+    "question_time": "2025-02-15 13:58:28",
+    "answer_count": 9,
+    "question_answer": [
+        {
+            "question_num": 1,
+            "answer_num": 1,
+            "answer_id": "695af84786291741153f8b9b7266c424",
+            "answer_author": "CMOS三好先生",
+            "answer_time": "2025-02-16 11:37",
+            "answer_voteup_count": 2,
+            "answer_content": "算你运气好，让我看到了这个回答！你要注意每个语言栏右上角的三个点“...”，别问我为什么知道的！如果有多个语言，“删除”这个选项就是黑色的可以点击的状态。另外，需要补充的一点：这个菜单的第一项：... 语言选项，是可以点击的选项，不是菜单的标题。话说我当初找了好久语言的设置，死活没找到。后来实在是找不到了，就问了旁边的同事，他一针见血地指出了这个语言选项的入口：这不是写着 “... 语言选项” 吗！！！",
+            "image_urls": [
+                "https://picx.zhimg.com/50/v2-585d02ca075d55b0d2a2a58998f1b114_720w.jpg?source=1def8aca",
+                "https://picx.zhimg.com/80/v2-585d02ca075d55b0d2a2a58998f1b114_1440w.webp?source=1def8aca"
+            ]
+        },
+        {
+            "question_num": 1,
+            "answer_num": 2,
+            "answer_id": "f67c6105f0dcc77ea35d8cd594a8a6b4",
+            "answer_author": "尚泥",
+            "answer_time": "2025-02-23 12:54",
+            "answer_voteup_count": 2,
+            "answer_content": "操作步骤如下：点击更多键盘设置2. 先点击中文键盘后面的三点“...”，在弹出的菜单中选择“语言选项（Language options）”。3. 在语言选项界面，找到下面的键盘设置。并将不需要的键盘删除。",
+            "image_urls": [
+                "https://picx.zhimg.com/50/v2-64ba83e2432b5eeb1e02e753e59edc91_720w.jpg?source=1def8aca",
+                "https://picx.zhimg.com/80/v2-64ba83e2432b5eeb1e02e753e59edc91_1440w.webp?source=1def8aca",
+                "https://pica.zhimg.com/50/v2-ba0eb95ec7cc384639e6716b00afe9c2_720w.jpg?source=1def8aca",
+                "https://pica.zhimg.com/80/v2-ba0eb95ec7cc384639e6716b00afe9c2_1440w.webp?source=1def8aca",
+                "https://pica.zhimg.com/50/v2-60370ac95bcc22efd1f7646feddb6d02_720w.jpg?source=1def8aca",
+                "https://pica.zhimg.com/80/v2-60370ac95bcc22efd1f7646feddb6d02_1440w.webp?source=1def8aca"
+            ]
+        },
+        {
+            "question_num": 1,
+            "answer_num": 3,
+            "answer_id": "0ff5ea9c8e4a514397573d187810a21e",
+            "answer_author": "ming丶",
+            "answer_time": "2025-02-17 09:10",
+            "answer_voteup_count": 1,
+            "answer_content": "最近win11更新后自动添加了微软拼音，试了半天终于成功删除了，以下是步骤：1、更多键盘设置2、相应语言处点击更多里面的语言选项3、找到更新后自动添加的键盘输入法点击删除4、注意：重点来了，如果此处删除是灰色不可点，点击添加键盘将此输入法添加一遍即可正常删除结束",
+            "image_urls": [
+                "https://picx.zhimg.com/50/v2-73db04225bbadd7509cd7377bf309532_720w.jpg?source=1def8aca",
+                "https://picx.zhimg.com/80/v2-73db04225bbadd7509cd7377bf309532_1440w.webp?source=1def8aca",
+                "https://picx.zhimg.com/50/v2-33503d3940c22e49e1f74d703a55f559_720w.jpg?source=1def8aca",
+                "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1589' height='737'></svg>",
+                "https://pic1.zhimg.com/50/v2-25581e8d77efc37c4c07f49e7182ecdf_720w.jpg?source=1def8aca",
+                "https://pic1.zhimg.com/80/v2-25581e8d77efc37c4c07f49e7182ecdf_1440w.webp?source=1def8aca",
+                "https://pica.zhimg.com/50/v2-1f27344c686f678eac80c6d4955cfe02_720w.jpg?source=1def8aca",
+                "https://pica.zhimg.com/80/v2-1f27344c686f678eac80c6d4955cfe02_1440w.webp?source=1def8aca"
+            ]
+        },
+        {
+            "question_num": 1,
+            "answer_num": 4,
+            "answer_id": "2e51820a074084663bcdee6cd5fd774e",
+            "answer_author": "白马啸西风",
+            "answer_time": "2025-02-17 16:06",
+            "answer_voteup_count": 1,
+            "answer_content": "如果你装了搜狗输入法,有那个浮动输入法工具条右键-更多设置属性设置-常用划到最下面-输入法管理器在里面每个输入法后边点x最后保存就可以了",
+            "image_urls": []
+        },
+        {
+            "question_num": 1,
+            "answer_num": 5,
+            "answer_id": "645132c7c14d4eaf1e55b9195fb752ab",
+            "answer_author": "张文远",
+            "answer_time": "2025-02-16 15:45",
+            "answer_voteup_count": 2,
+            "answer_content": "修改注册表可以参考我以前的这篇回答Win10更新后为什么会自动添加额外的英语输入法？4 赞同 · 0 评论回答",
+            "image_urls": [
+                "https://picx.zhimg.com/50/v2-75f4b16909c06dde0b7b24a63e81157b_720w.jpg?source=1def8aca",
+                "https://picx.zhimg.com/80/v2-75f4b16909c06dde0b7b24a63e81157b_1440w.webp?source=1def8aca",
+                "https://pic3.zhimg.com/v2-fccb5d52d04417db386f650fa59eb046_180x120.jpg"
+            ]
+        },
+        {
+            "question_num": 1,
+            "answer_num": 6,
+            "answer_id": "ad63d652ed8f1c7c5af5bd55b8b297f3",
+            "answer_author": "曹曹Cc",
+            "answer_time": "2025-02-16 09:38",
+            "answer_voteup_count": 2,
+            "answer_content": "设置-时间和语言-语言和区域，删除不想要的语言",
+            "image_urls": []
+        },
+        {
+            "question_num": 1,
+            "answer_num": 7,
+            "answer_id": "0391ac3d915680e4c1ad9e7b55452d2f",
+            "answer_author": "执剑问长生",
+            "answer_time": "2025-02-20 11:22",
+            "answer_voteup_count": 0,
+            "answer_content": "win11好用吗？",
+            "image_urls": []
+        },
+        {
+            "question_num": 1,
+            "answer_num": 8,
+            "answer_id": "1d38cf920e50856bc7f8ab4290e9d498",
+            "answer_author": "在齐太史简",
+            "answer_time": "2025-03-04 17:47",
+            "answer_voteup_count": 0,
+            "answer_content": "你不是教编程的吗？什么python、Java你都会点。怎么这个不会呢？",
+            "image_urls": []
+        },
+        {
+            "question_num": 1,
+            "answer_num": 9,
+            "answer_id": "2f261371b4a4e7134c5528bccacb5dd2",
+            "answer_author": "藏负于民",
+            "answer_time": "2025-02-18 15:19",
+            "answer_voteup_count": 0,
+            "answer_content": "打开设置：按 Win + I 打开“设置”。进入语言设置：选择“时间和语言”，然后点击“语言和区域”。选择语言：找到当前使用的语言（如“中文(简体, 中国)”），点击右侧的“...”按钮，选择“语言选项”。删除键盘布局：在“键盘”部分，找到不需要的布局，点击它并选择“删除”。",
+            "image_urls": []
+        }
+    ]
+}

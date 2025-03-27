@@ -1,0 +1,12 @@
+beautifulsoup4==4.13.3
+DrissionPage==4.1.0.17
+DrissionPage==4.1.0.18
+fake_useragent==2.0.3
+jieba==0.42.1
+pandas==2.2.3
+pyecharts==2.0.8
+pymongo==4.11.3
+Scrapy==2.12.0
+selenium==4.30.0
+streamlit==1.43.2
+streamlit_echarts==0.4.0

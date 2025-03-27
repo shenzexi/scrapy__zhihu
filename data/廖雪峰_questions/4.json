@@ -1,0 +1,60 @@
+{
+    "question_num": 4,
+    "question_id": "19837799",
+    "question_url": "https://www.zhihu.com/question/19837799",
+    "question": "在首页上能看到提问者的头像，点进去却看不到了，没有任何提问者的头像或 ID，是 bug 、设计遗漏还是故意为之？",
+    "question_time": "2011-09-02 14:18:07",
+    "answer_count": 5,
+    "question_answer": [
+        {
+            "question_num": 4,
+            "answer_num": 1,
+            "answer_id": "37c382e4fa4703f18b2ac7ccc589c1bc",
+            "answer_author": "杨昆",
+            "answer_time": "2011-09-02 14:24",
+            "answer_voteup_count": 3,
+            "answer_content": "首页不是提问者的头像，而是这条活动流产生者的头像，当你看到有人提问时刚好产生者就是提问者，如果再有人关注、赞同等等头像就换了。",
+            "image_urls": []
+        },
+        {
+            "question_num": 4,
+            "answer_num": 2,
+            "answer_id": "64da345214d4253a4589c0bf7ddc2af1",
+            "answer_author": "黒陌猫",
+            "answer_time": "2016-04-05 15:29",
+            "answer_voteup_count": 1,
+            "answer_content": "这个“提问者”只是第一个在知乎上提出这个问题的人，有些问题可能有很多人想要提出，他们不是第一个，却也应该算是提问者，而且知乎也给了他们修改问题描述的权利。所以应该是故意为之吧。",
+            "image_urls": []
+        },
+        {
+            "question_num": 4,
+            "answer_num": 3,
+            "answer_id": "0",
+            "answer_author": "匿名用户",
+            "answer_time": "2015-08-14 19:26",
+            "answer_voteup_count": 0,
+            "answer_content": "提问者是第一个关注该问题的人( •̀∀•́ )如果回答的人少的话，第一个关注该问题的应该就是提问者咯( •̀∀•́ )很容易就找到的( •ิ_• ิ)",
+            "image_urls": []
+        },
+        {
+            "question_num": 4,
+            "answer_num": 4,
+            "answer_id": "67aa4cebf9fdb35f09e0f24f380e5697",
+            "answer_author": "JackLoong",
+            "answer_time": "2012-03-13 00:24",
+            "answer_voteup_count": 0,
+            "answer_content": "我在在问答页也没有找到提问者的头像.. 是提倡提问免责吗？",
+            "image_urls": []
+        },
+        {
+            "question_num": 4,
+            "answer_num": 5,
+            "answer_id": "ad57ee24c78c7c7cf9321bd9704dbef2",
+            "answer_author": "古月",
+            "answer_time": "2011-09-02 14:21",
+            "answer_voteup_count": 0,
+            "answer_content": "应该就是这样设计的吧，让用户的注意力集中到问题本身上来。",
+            "image_urls": []
+        }
+    ]
+}
